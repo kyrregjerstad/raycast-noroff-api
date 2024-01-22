@@ -9,7 +9,7 @@ type Props = {
 const DocumentationItem = ({ item, section }: Props) => (
   <List.Item
     key={item.url}
-    icon="noroff-logo-emblem.svg"
+    icon="noroff-logo-emblem.png"
     title={item.title}
     keywords={[item.title, section]}
     actions={

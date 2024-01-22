@@ -2,8 +2,8 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "noroff-api",
   "title": "Noroff API",
-  "description": "",
-  "icon": "noroff-logo-emblem.svg",
+  "description": "Simple Raycast extension to open the Noroff API documentation in your browser.",
+  "icon": "noroff-logo-emblem.png",
   "author": "kyrregjerstad",
   "license": "MIT",
   "commands": [
