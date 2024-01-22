@@ -3,7 +3,7 @@
   "name": "noroff-api",
   "title": "Noroff API",
   "description": "",
-  "icon": "command-icon.png",
+  "icon": "noroff-logo-emblem.svg",
   "author": "kyrregjerstad",
   "license": "MIT",
   "commands": [
